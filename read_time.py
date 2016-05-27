@@ -52,7 +52,7 @@ That meant the Pilot would have to use manual controls.
 	if inp=="ok":
 		t1 = time.time()
 		totalTime = t1-t0
-
+	else: print("\nYou had to type \"ok\" before pressing Enter!!\n")
 	speed = int(100/totalTime)	
 	return speed
 
