@@ -1,4 +1,4 @@
-# Book-Reading-Time
+# Reading-Time-Calculator
 A python script to calculate the approximate time you would need to complete reading a pdf book
 
 ### Requirements:
